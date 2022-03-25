@@ -1,0 +1,2 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+trained-models/*.pt filter=lfs diff=lfs merge=lfs -text
